@@ -30,27 +30,29 @@
         <source>Replace the registry entry if you want to use other software with the NPClient protocol and it doesn&apos;t work automatically.
 
 Starting tracking will again overwrite the DLL locations.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您想使用 NPClient 协议的其他软件，但它不能自动运行，请替换注册表项。
+
+启动跟踪会再次覆盖 DLL 位置。</translation>
     </message>
     <message>
         <source>Select interface</source>
-        <translation type="unfinished"></translation>
+        <translation>选择接口</translation>
     </message>
     <message>
         <source>Disable one of the protocols if game is confused by presence of both at the same time.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果同时使用两个协议会让游戏感到困惑，则禁用其中一个协议。</translation>
     </message>
     <message>
         <source>Enable both</source>
-        <translation type="unfinished"></translation>
+        <translation>都允许</translation>
     </message>
     <message>
         <source>Use freetrack, disable TrackIR</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 freetrack, 禁用 TrackIR</translation>
     </message>
     <message>
         <source>Use TrackIR, disable freetrack</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 TrackIR, 禁用 freetrack</translation>
     </message>
     <message>
         <source>Library location</source>
@@ -58,11 +60,11 @@ Starting tracking will again overwrite the DLL locations.</source>
     </message>
     <message>
         <source>Custom location</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义位置</translation>
     </message>
     <message>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览...</translation>
     </message>
     <message>
         <source>This is useful when you&apos;re only evaluating opentrack, and haven&apos;t yet  decided to use it all the time.</source>
@@ -70,7 +72,7 @@ Starting tracking will again overwrite the DLL locations.</source>
     </message>
     <message>
         <source>Clear location when tracking is stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>停止追踪时清除位置</translation>
     </message>
     <message>
         <source>Useful for titles like Elite: Dangerous that require the library to reside in a specified location. Use this to avoid relocating your opentrack installation.</source>
